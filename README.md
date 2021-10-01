@@ -78,9 +78,6 @@ Repositório criado para o Desafio de Projeto
 
 #### Atualizar os arquivos no branch atual
  git pull
- 
-#### Buscar as alterações, mas não aplica-las no branch atual
- git fetch
- 
+  
 #### Clonar um repositório remoto já existente
  git clone https://github.com/alancabral28/dio-desafio-github-primeiro-repositorio.git
