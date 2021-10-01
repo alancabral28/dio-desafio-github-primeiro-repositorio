@@ -56,7 +56,7 @@ Repositório criado para o Desafio de Projeto
  git remote -v
  
 #### Vincular repositório local com um repositório remoto
- git remote add origin git@github.com:leocomelli/curso-git.git
+ git remote add origin https://github.com/alancabral28/dio-desafio-github-primeiro-repositorio.git
  
 #### Exibir informações dos repositórios remotos
  git remote show origin
@@ -83,4 +83,4 @@ Repositório criado para o Desafio de Projeto
  git fetch
  
 #### Clonar um repositório remoto já existente
- git clone git@github.com:leocomelli/curso-git.git
+ git clone https://github.com/alancabral28/dio-desafio-github-primeiro-repositorio.git
